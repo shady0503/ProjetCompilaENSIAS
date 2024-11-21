@@ -1,0 +1,4 @@
+program test3;
+begin
+   x := 10;  // Error: 'x' is not declared
+end.
