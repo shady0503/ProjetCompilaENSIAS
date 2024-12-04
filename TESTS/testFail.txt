@@ -1,4 +1,5 @@
 program test3;
+var x;
 begin
-   x := 10;  // Error: 'x' is not declared
+   x := 10;
 end.
