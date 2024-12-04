@@ -1,8 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "files.associations": {
-        "stdio.h": "c",
-        "analyseur_lexical.h": "c",
-        "stdlib.h": "c"
-    }
-}
